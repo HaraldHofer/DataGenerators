@@ -1,0 +1,16 @@
+name: "Data Generators"
+
+navbar:
+  title: "Data Generators"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Digital Ad Report"
+      href: datgen_DigitalAdReport_01.html
+
+output_dir: "docs"
+output:
+  html_document:
+    theme: flatly
+    toc: true  
+    toc_float: true
